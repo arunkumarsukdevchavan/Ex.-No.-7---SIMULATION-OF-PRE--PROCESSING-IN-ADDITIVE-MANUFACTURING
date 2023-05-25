@@ -44,7 +44,7 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-![output]()
+![output](https://user-images.githubusercontent.com/118707073/240145656-c70ee438-315d-4b05-a3b6-71897edfb8a7.png)
 
 ### Name: ARUN KUMAR SUKDEV CHAVAN
 ### Register Number: 212222230013
